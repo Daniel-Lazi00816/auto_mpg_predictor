@@ -1,1 +1,1 @@
-# auto_mpg_predictor
+# Predicting Miles Per Gallon 
