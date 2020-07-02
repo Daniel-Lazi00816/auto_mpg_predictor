@@ -1,5 +1,5 @@
 # Predicting Miles Per Gallon 
 ## Problem Statement:
-## Executive Summary
-## Modeling and Results
-## Conclusion
+## Executive Summary:
+## Modeling and Results:
+## Conclusion:
